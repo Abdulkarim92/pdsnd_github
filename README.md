@@ -1,14 +1,14 @@
 ### Date created
-Oct 10, 2019
+October 1, 2019
 
 ### Project Title
-Udacity Project 3
+Udacity Project number 3
 
 ### Description
 this project about changing the files and branches in github
 
 ### Files used
-one file for readme
+README file with MD extension 
 
 ### Credits
-None
+Udacity Web
