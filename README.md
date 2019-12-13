@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+Dec 13, 2019
 
 ### Project Title
-Replace the Project Title
+GitHub Project
 
 ### Description
-Describe what your project is about and what it does
+the project is taking the data of three cities in USA and analyze the bijeshare tends in order to give a good recommendation for the company using the basically two libraries pandas and numpy.
 
 ### Files used
-Include the files used
+Code file:
+bikeshare (pyhton)
+
+Data files all un CSV format:
+new york city
+chicago
+washington
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity website
