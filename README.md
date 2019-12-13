@@ -18,3 +18,5 @@ washington
 
 ### Credits
 Udacity website
+pandas library
+numpy
