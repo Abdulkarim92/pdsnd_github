@@ -1,8 +1,8 @@
 ### Date created
-Dec 13, 2019
+Nov 13, 2019
 
 ### Project Title
-GitHub Project - Udacity
+GitHub Project
 
 ### Description
 the project is taking the data of three cities in USA and analyze the bijeshare tends in order to give a good recommendation for the company using the basically two libraries pandas and numpy.
@@ -18,5 +18,5 @@ washington
 
 ### Credits
 Udacity website
-pandas library
+pandas 
 numpy
